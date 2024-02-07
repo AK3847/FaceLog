@@ -19,3 +19,16 @@ Attendance manager for Students, based on Facial Recogniition.
 ```bash
   python Mark_Attendance.py
 ```
+- While running the `Mark_Attendance.py` press _"spacebar"_ to capture a pic. The result will be shown in terminal as follows:
+  
+     ![image](https://github.com/AK3847/FaceLog/assets/94222544/14fff28d-7429-466b-8467-2ca08614f453)
+
+## Python Modules 🐍
+```python
+opencv
+face_recognition
+openpyxl
+pickle
+numpy
+```
+
