@@ -22,6 +22,10 @@ Attendance manager for Students, based on Facial Recogniition.
 - While running the `Mark_Attendance.py` press _"spacebar"_ to capture a pic. The result will be shown in terminal as follows:
   
      ![image](https://github.com/AK3847/FaceLog/assets/94222544/14fff28d-7429-466b-8467-2ca08614f453)
+- Name of the Student alogn with timestamp is stored in the `Student Attendance.xlsx` file
+
+     ![image](https://github.com/AK3847/FaceLog/assets/94222544/192ddac2-db16-4194-922f-0d90ef7b0c14)
+
 
 ## Python Modules 🐍
 ```python
